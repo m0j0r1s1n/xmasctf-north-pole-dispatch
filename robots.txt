@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /winter/
+
+# Old route map, copied one letter ahead: /xjoufs/7e2c.iunm
